@@ -1,4 +1,0 @@
-printf("test");
-
-:wq
-
